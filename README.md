@@ -12,3 +12,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMMonteiro&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickMmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
